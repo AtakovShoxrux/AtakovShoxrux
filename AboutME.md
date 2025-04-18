@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtakovShoxrux
 - 👀 I’m interested in coding and solving problems
-- 🌱 I’m currently learning IT
+- 🌱 I’m currently working as a Back-End Developer
 - 💞️ I’m looking to collaborate on with clients
 - 📫 How to reach me vie Telegram: @Atakov_Shoxrux Discord: shaxmengeneralov
 
